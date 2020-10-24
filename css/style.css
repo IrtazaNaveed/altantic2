@@ -1,0 +1,222 @@
+header{
+    padding: 10px;
+    position: relative;
+}
+header .left{
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+
+    
+}
+header .left img{
+    width: 50px;
+}
+header .center img{
+    width: 150px;
+    height: 150px;
+    margin-bottom: -50px;
+}
+header .center{
+    text-align: center;
+    margin-bottom: 20px;
+   
+}
+header .right{
+    text-align: right;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+header .btn1{
+    background-color: white;
+    color: black;
+}
+header .btn2{
+    background-color:#ea131a;
+    color: white;
+}
+header .btn2:hover{
+    background-color: #8f1917;
+}
+
+
+.main-section{
+    padding: 20px;
+    margin: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.main-section .left h3{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+.main-section h6{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.main-section .center h3{
+    font-size: 40px;
+    font-weight: 400;
+}
+.main-section .center h4{
+    font-weight: 400;
+    padding: 20px;
+}
+.main-section .center h5{
+    font-weight: bold;
+    font-size: 15px;
+}
+p{
+    font-size: 14px;
+}
+.main-section .center img{
+    width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.main-section .left{
+    padding: 5px;
+    border-right: 1px solid lightgray;
+}
+.main-section .left img{
+    width: 280px;
+    margin-bottom: 20px;
+}
+.main-section .center{
+    padding: 5px;
+    text-align: center;
+}
+.main-section .right img{
+    width: 100px;
+    height: 80px;
+}
+.main-section .right{
+    
+    border-left: 1px solid lightgray;
+}
+.main-section .blog{
+    margin-bottom:15px;
+    margin-top: 5px;
+    border-bottom: 1px solid lightgrey;
+}
+.main-section .right .blog{
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.center-section{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.center-section h3{
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+.center-section p{
+    color: gray;
+}
+.center-section h6{
+    font-weight: bold;
+    font-size: 12px;
+}
+.center-section h5{
+    font-size: 18px;
+    font-weight: 200;
+}
+.upper img{
+    width: 300px;
+    padding: 5px;
+}
+.center-section .left {
+    padding: 5px;
+    border-right: 1px solid lightgrey;
+}
+.center-section .center{
+    padding: 5px;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+}
+.center-section .right{
+    padding: 5px;
+}
+.lower .left img{
+    width: 280px;
+    height: 300px;
+}
+
+#blog-section-upper{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+#blog-section-upper img{
+    width: 80px;
+    height: 80px;
+}
+#blog-section-upper .center{
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+$blog-section-upper .title{
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+#blog-section-upper .blog{
+    
+    padding: 10px;
+}
+#blog-section-upper .center img{
+    width: 200px;
+    height: 150px;
+    padding: 5px;
+}
+.blog-section-upper .center h3{
+    font-size: 18px;
+    font-weight: 200;
+}
+.title h2{
+    text-align: left;
+}
+.title p{
+    text-align: right;
+}
+
+.blog-section-lower{
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.blog-section-lower h2{
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+footer{
+    background-color: black;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 50px;
+    color: white;
+}
+footer .col{
+    padding-left: 30px;
+}
+.social-icons i{
+    font-size:30px;
+    margin: 10px;
+}
+.footer .row{
+    border-bottom: 2px solid white;
+}
